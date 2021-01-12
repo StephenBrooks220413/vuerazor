@@ -36,7 +36,7 @@
             </li>
           </ul>
           <span class="navbar-text">
-            <a href="#">Accounts</a>
+            <a href="https://github.com/StephenBrooks220413/vuerazor.git" target="_blank">Repository</a>
           </span>
         </div>
       </div>
