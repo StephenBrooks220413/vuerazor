@@ -107,11 +107,9 @@
                 <h1>Our Policy</h1>
                     <br /><br />
                     <p class="text-info">
-                       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pharetra convallis posuere morbi leo urna molestie. Arcu cursus euismod quis viverra nibh. Pulvinar etiam non quam lacus suspendisse. Neque vitae tempus quam pellentesque nec nam aliquam. Egestas erat imperdiet sed euismod. Vel elit scelerisque mauris pellentesque pulvinar. Orci eu lobortis elementum nibh tellus. Nibh mauris cursus mattis molestie. Quis risus sed vulputate odio ut. Cursus turpis massa tincidunt dui ut ornare lectus sit. Convallis posuere morbi leo urna molestie. Nibh tortor id aliquet lectus proin nibh nisl condimentum id. Arcu odio ut sem nulla pharetra diam sit amet. Proin libero nunc consequat interdum varius. Eu ultrices vitae auctor eu augue. Vulputate enim nulla aliquet porttitor lacus luctus. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque convallis.
+                       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-                       Leo integer malesuada nunc vel risus commodo viverra. Arcu cursus vitae congue mauris rhoncus aenean. Mattis enim ut tellus elementum sagittis vitae. Aliquam ultrices sagittis orci a scelerisque. Nulla aliquet porttitor lacus luctus accumsan tortor posuere ac. Dui nunc mattis enim ut tellus. Tellus in metus vulputate eu scelerisque felis imperdiet proin. Suspendisse faucibus interdum posuere lorem ipsum dolor sit. Feugiat nisl pretium fusce id velit ut tortor pretium. Scelerisque eleifend donec pretium vulputate. Vitae tempus quam pellentesque nec nam aliquam sem. Mus mauris vitae ultricies leo integer malesuada nunc vel risus. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet.
-
-                       Curabitur vitae nunc sed velit dignissim sodales ut eu sem. Elit at imperdiet dui accumsan sit amet nulla facilisi. Felis imperdiet proin fermentum leo vel orci porta non. Viverra suspendisse potenti nullam ac tortor. Augue neque gravida in fermentum. Libero id faucibus nisl tincidunt eget nullam non. Quis blandit turpis cursus in hac. Rhoncus urna neque viverra justo nec ultrices dui sapien. Suscipit adipiscing bibendum est ultricies integer quis auctor. Tristique magna sit amet purus gravida quis. Condimentum mattis pellentesque id nibh.
+                       Leo integer malesuada nunc vel risus commodo viverra.
                     </p>
             </div>
         <br /><br /><br /><br /><br />
